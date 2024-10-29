@@ -3,8 +3,6 @@
 
 A Flutter application designed to help users track and manage their habits efficiently. The app boasts a modern dark theme UI, seamless navigation, and robust functionality powered by sqflite and Syncfusion charts.
 
-![App Screenshot](screenshot.png) <!-- You can add actual screenshots here -->
-
 ## Table of Contents
 
 - [Features](#features)
@@ -46,27 +44,29 @@ A Flutter application designed to help users track and manage their habits effic
 
 ## Screenshots
 
-<!-- Include actual screenshots of your app here -->
-
 1. **Home Screen**
 
-   ![Home Screen](screenshots/home_screen.png)
+   ![Home Screen](screenshots/Home%20Screen.jpg)
 
 2. **Habits Screen**
 
-   ![Habits Screen](screenshots/habits_screen.png)
+   ![Habits Screen](screenshots/delete%20habits.jpg)
 
 3. **Add Habit Screen**
 
-   ![Add Habit Screen](screenshots/add_habit_screen.png)
+   ![Add Habit Screen](screenshots/add%20habit.jpg)
 
 4. **Analytics Screen**
 
-   ![Analytics Screen](screenshots/analytics_screen.png)
+   ![Analytics Screen](screenshots/analytics.jpg)
 
 5. **Calendar Screen**
 
-   ![Calendar Screen](screenshots/calendar_screen.png)
+   ![Calendar Screen](screenshots/Calender.jpg)
+
+6. **Sidebar**
+
+   ![Sidebar](screenshots/sidebar.jpg)
 
 ---
 
